@@ -24,9 +24,7 @@ Built with **Python** and designed to be easily extensible, this tool is ideal f
 
 - Python 3.8+
 - OpenAI API / Hugging Face Transformers
-- Flask or Django (optional for web interface)
+- streamlit (optional for web interface)
 - Pandas, NumPy
 - Jinja2 (for templating)
-
-## 📁 Folder Structure
 
